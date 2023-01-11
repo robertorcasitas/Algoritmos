@@ -39,7 +39,7 @@ for (int i=0; i< n-1; i++){
 }
 for (int g = 0; g < n; g++)
 {
-    cout<<A[g]<<endl;
+    cout<<A[g]<<", ";
 }
 
 cout<<"Número a buscar: ",cin>>T;
